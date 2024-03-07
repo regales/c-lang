@@ -1,1 +1,1 @@
-# dsbot
+*Coding practices in C language for CPR E 185*
