@@ -1,0 +1,17 @@
+{
+  "name": "averat",
+  "version": "1.0.0",
+  "description": "DS Bot using JS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Ryan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
